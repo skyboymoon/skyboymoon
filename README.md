@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @skyboymoon
 - 👀 I’m interested in jiu jitsu
-- 🌱 I’m currently learning python,c++, arduino
+- 🌱 I’m currently learning python,c++,css arduino
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
